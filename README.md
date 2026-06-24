@@ -10,7 +10,7 @@ I enjoy building web applications and working with databases. Currently learning
 ##
 ##
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
 
 <img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5MDJxYzRodGUzNjVhOWczdTRnMHRhcG8xZTN4YzNnNGJhMGNmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"  />
 
