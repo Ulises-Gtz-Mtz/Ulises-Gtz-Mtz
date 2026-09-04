@@ -10,7 +10,32 @@ I enjoy building web applications and working with databases. Currently learning
 ##
 ##
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
+### 🛠️ Tecnologías
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=js,vue" />
+</p>
+
+<p align="center">
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,java" />
+</p>
+
+<p align="center">
+  <b>Database</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
+  <b>Hardware / IoT</b><br>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+</p>
+
+<p align="center">
+  <b>Herramientas</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
 
 <img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5MDJxYzRodGUzNjVhOWczdTRnMHRhcG8xZTN4YzNnNGJhMGNmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"  />
 
