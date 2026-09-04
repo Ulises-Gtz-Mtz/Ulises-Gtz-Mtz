@@ -10,6 +10,32 @@ I enjoy building web applications and working with databases. Currently learning
 ##
 ##
 
+## 📊 GitHub
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://ghstats.dev/api/card?username=Ulises-Gtz-Mtz&theme=tokyonight&border_radius=50" width="400" alt="GitHub Stats">
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://ghstats.dev/api/langs?username=Ulises-Gtz-Mtz&theme=tokyonight&max_langs=12&layout=donut_vertical" width="400" alt="Top Languages">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises-Gtz-Mtz&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak">
+
+<br><br>
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
 
 <img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5MDJxYzRodGUzNjVhOWczdTRnMHRhcG8xZTN4YzNnNGJhMGNmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"  />
