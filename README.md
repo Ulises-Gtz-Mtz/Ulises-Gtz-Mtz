@@ -10,6 +10,12 @@ I enjoy building web applications and working with databases. Currently learning
 ##
 ##
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
+
+<img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5MDJxYzRodGUzNjVhOWczdTRnMHRhcG8xZTN4YzNnNGJhMGNmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"  />
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ulisesgamer10&unique={true|1|on|yes})
+## 
 ## 📊 GitHub
 
 <table>
@@ -30,18 +36,8 @@ I enjoy building web applications and working with databases. Currently learning
 </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises-Gtz-Mtz&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak">
-
 <br><br>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,vue,nodejs,java,mysql,git,github,vscode,androidstudio,arduino" /> </p>
-
-<img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J5MDJxYzRodGUzNjVhOWczdTRnMHRhcG8xZTN4YzNnNGJhMGNmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"  />
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ulisesgamer10&unique={true|1|on|yes})
-## 
 🌐 Connect with me
 
 <p align="left">
